@@ -1,0 +1,105 @@
+/* Style sheet for notes.html */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #262335;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+}
+
+main {
+    padding: 1em;
+    max-width: 1200px;
+    margin: 6em auto;
+}
+
+.main-header,
+.main-footer {
+    background-color: #1976d2;
+    color: #72e48a;
+    padding: 1em 0;
+    text-align: center;
+    height: 4em;
+}
+
+.main-header p{
+    margin: 1em auto;
+    max-width: 1200px;
+}
+.main-footer p {
+    position: relative;
+    top: 1.5em;
+    font-weight: bold;
+
+}
+
+h1 {
+    background-color: #1976d2;
+    color: #72e48a;
+    padding: 1em 0;
+    text-align: center;
+}
+
+h2,
+h3,
+h4 {
+    color: #72e48a;
+    margin: 1em 0;
+}
+
+
+a {
+    color: #f18b37;
+}
+
+article > a {
+    color: #f18b37;
+    font-weight: normal;
+}
+
+.hour {
+    color: aqua;
+    font-weight: bold;
+}
+
+.image-container {
+    margin: 20px auto;
+}
+
+.image-container__image {
+    width: 500px;
+    margin: 20px;
+}
+
+li {
+    list-style-position: inside;
+}
+
+li li {
+    margin-left: 1em;
+}
+
+section > ul > li {
+    margin-left: 1em;
+    /* border: #1976d2 solid 2px; */
+}
+
+article > ul > li {
+    /* border: #1976d2 solid 2px; */
+    list-style-type: none;
+    margin-left: 0.2em;
+}
+
+ul {
+    margin: 0.2em 0;
+}
+
+.go-to-top {
+    display: block;
+    margin: 1em 0;
+}

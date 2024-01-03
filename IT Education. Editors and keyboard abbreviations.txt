@@ -1,0 +1,424 @@
+https://www.iconsdb.com/ // Page to download icons white!!
+
+
+WOOF2
+WTF
+More formats used.
+https://www.fontshare.com/
+Con respecto al tema de tipografías, este sitio es muy bueno para descargar familias tipográficas completas, que no se encuentran en Google Fonts
+
+
+Alumni
+darioernesto.roca@gmail.com
+833B065
+
+Editores
+Notepad ++: Editor antiguo si fuera una máquina muy vieja
+Sublime
+Atom.io
+VS Code: Es un IDE Integrated Development Environment
+
+Página de emmet:
+emmet.io
+
+() Parentheses ("Paréntesis")
+[] Square Brackets ("Corchetes")
+{} Curly Brackets ("Llaves")
+
+'   Single quote
+"   Quotes
+`   backtick (Alt + 96)
+
+Ctrl+B  oculta el explorador de VS Code
+Ctrl+Shift+p (theme) para definir para paleta de colores
+Ctrl+u para ver código fuente de una página
+Shift+Tab se va para la izquierda el contenido
+Alt+Shift+A Prender y apagar un comentario
+Ctrl+k+c Prender y apagar un comentario
+Acomodar el texto Alt+Z al ancho de la ventana
+F2 para ubicar líneas
+Alt+L y Alt+O para abrir Live Server
+Ctrl + enter me baja el cursor a la.siguiente línea
+Con F2 cambia la etiqueta y se pueden ir renombrando en los dos lugares.
+Con Alt + Z se acomoda el texto dentro de la página
+
+Alt+Shit+Abajo para duplicar hacia abajo. Después se mueve alt+abajo o alt+arriba y se mueve de lugar
+Para corregir un texto con el teclado con Ctrl+Izq o der se mueve palabra a palabra. 
+Con Shift selecciono y puedo combinar Ctrl+Shift y selecciono palabras enteras. 
+La tecla Fin me lleva al finalLa tecla Inicio me lleva al principio. 
+Shift + Inicio Shift + Fin
+Ctrl + Inicio Me lleva al inicio Ctrl + Fin me lleva al final
+Ctrl + Shift + Inicio Selecciona todo hasta el inicio Ctrl+Shift+Fin Selecciona todo hasta el Fin
+Ctrl+supr borra la palabra de la derechaCtrl+borrar borra la palabra de la izquierda
+Cursores múltiples Alt + click Ctrl + Alt + Abajo genera cursores hacia abajo. Ctrl+Alt+Shift va seleccionando todosCtrl+Alt+Abajo+Shift+Fin Selecciona todas las frasea hasta el final Ctrl + Alt + Abajo + Shift + Derecha
+
+ESC para volver el cursor a su sitio. 
+Doble click para una palabra
+Triple click se puede seleccionar el párrafo entero. 
+Con doble click se selecciona la palabra y las coincidencias ai presiono Ctrl+D y se van a seleccionar todas las coincidenciasSeleccionar simbolo de menor+h2 y después Ctrl+D, Ctrl+D y Ctrl+DCuando se desacomodan los cursores me voy a Inicio y vuelvo a las palabras
+Para subir a mayúsculas y a minúsculas File>Preferences>Keyboard shortcutsCtrl+K+S y configurar Ctrl+A+U se haga mayúsculas y Ctrl+A+L se haga minúsculas. 
+
+Ctrl + Barra espaceadora + tabulación, recupero el Emmet cuando se me pierde.Se comenta con Ctrl+{ o Ç para comentarSe comenta Ctrl+K+C para comentar Se comenta con Alt + Shift + A
+F2 para renombrar archivos o carpetas
+
+En navegadores
+Ctrl + R: Refrescar la página
+Esc mientras carga: Parar.
+F12: Abre DevTools, herramientas para desarrolladores.
+Ctrl + L (o F6): Cuando el browser está abierto focaliza la barra de direcciones.
+Ctrl + U: Para ver código fuente.
+Ctrl + Shift + J Muestra la consola abajo
+
+
+En File Explorer
+Ctrl + Shift + N: Creación de nueva carpeta
+Ctrl + Alt + S: Muestra la información del sistema
+Ctrl + Alt + Suprimir: Administrador de tareas
+Ctrl + Rueda del mouse para agrandar o disminuir zoom
+Ctrl + 0 Para resetear zoom
+Windows + Flecha arriba: Maximizar ventana
+Windows + D: Mostrar y ocultar desktop
+Windows + E: Abrir File Explorer
+Windows + M: Minimiza todas las ventanas
+Windows + Shift + M: Restaura las ventanas minimizadas en desktop
+Windows R: Ajustes de Windows.
+
+Ctrl + +: Aumenta Zoom
+Ctrl + -: Disminuye Zoom
+Ctrl + 0: Reiniciar Zoom
+
+Manejo del cursor:
+Ctrl + Izq: Mueve el cursor palabra por palabra
+Ctrl + Shift + Izq/Der: Selecciona palabras enteras
+Ctrl + Shift + Arriba/Abajo: Selecciona líneas enteras
+Shift + Fin: Selecciona toda la línea hasta el final
+Shift + Inicio: Selecciona toda la línea hasta el inicio.
+Ctrl + Shift + Final: Selecciona todo el documento hasta el final.
+Ctrl + Shift + Inicio: Selecciona todo el documento hasta el inicio.
+Ctrl + Inicio y después Ctrl + Shift + Fin: Para seleccionar todo un documento con el teclado de forma rápida.
+Ctrl + Supr: Borra la palabra de la derecha
+Ctrl + Borrar: Borra la palabra de la izquierda.
+Doble Click: Selecciona una palabra.
+Triple Click: Selecciona toda la línea.
+Cuatro Clicks: Selecciona todo el párrafo.
+Cinco Clicks: Selecciona todo el documento.
+
+En VS Code
+Ctrl + ,: Para abrir Settings (Ruta: File/Preferences/Settings).
+Ctrl + B: Mostrar y ocultar barra lateral.
+Ctrl + S: Guardar.
+Ctrl + Barra espaciadora: Para activar emmet en una línea de código.
+Ctrl + Enter: Baja el cursor generando un nuevo renglón.
+Seleccionar un contenido y pulsar Tab: El contenido se mueve a la derecha.
+Seleccionar un contenido y pulsar Shift + Tab: El contenido se mueve a la izquierda.
+Seleccionar una etiqueta + F2: Para cambiar el nombre de la etiqueta.
+Ctrl + Ç: Prender y apagar comentarios.
+Ctrl + {: Prender y apagar comentarios.
+Ctrl + {: Prender y apagar comentarios de línea en archivos .js JavaScript.
+Alt + Shift + A: Prender y apagar comentarios.
+Ctrl + K + C: Prender y apagar comentarios.
+Ctrl + K + C: Prender y apagar comentarios de línea en archivos .js JavaScript.
+Alt + B: Abrir el documento en el navegador seleccionado by default.
+Alt + L + Alt + O: Abre Live Server.
+Alt + L + Alt + C: Cierra Live Server.
+Alt + Shift + B: Para seleccionar en qué navegador quiere abrir el documento.
+Alt + Z: Ajustar las líneas código en VS Code.
+Seleccionar + Alt + Shift + Abajo: Duplica la selección hacia abajo.
+Seleccionar + Alt + Shift + Arriba: Duplica la selección hacia arriba.
+Seleccionar + Alt + Abajo: Mueve la selección hacia abajo.
+Seleccionar + Alt + Arriba: Mueve la selección hacia arriba.
+Alt + Shift + Abajo: Duplica la línea del cursor hacia abajo.
+Alt + Shift + Arriba: Duplica la línea del cursor hacia arriba.
+Ctrl + Alt + Abajo: Crea cursores múltiples hacia abajo.
+Seleccionar + Ctrl + D: Selecciona la siguiente palabra que coincide con la selección, creando múltiple cursores.
+ESC: Para quitar la selección de múltiples cursores.
+Ctrl K + Ctrl S: Va a Keyboard Shortcuts.
+Ctrl + Alt + L: Convierte el texto seleccionado en Lowercases (Se tiene que configurar en Keyboard Shortcuts).
+Ctrl + Alt + U: Convierte el texto seleccionado en Uppercases (Se tiene que configurar en Keyboard Shortcuts).
+Ctrl + Alt + T: Convierte el texto seleccionado en Title cases (Se tiene que configurar en Keyboard Shortcuts).
+Ctrl + Click: Abre un link en VS Code.
+Escribir link:c + Tab: Genera rápidamente el link de css en HTML.
+Alt + Shift + Derecha: La selección crece "con sentido".
+Seleccionar + Ctrl + X/ strong Ctrl + V: Para colocar un texto dentro de una etiqueta de línea dentro de un párrafo. 
+Alt + Q Abreviación para Emmet Wraps, coloca el texto seleccionado dentro de la etiqueta que uno determine. Se configura en File/Preferences/Keyboard Shortcuts/Emmet Wraps/Add Shortcut Alt + Q o cualquier otro atajo de teclado preferido.
+Seleccionar y presionar Alt + Shift + Flecha Abajo: Duplico el contenido hacia abajo.
+Seleccionar y presionar Alt + Shift + Flecha Arriba: Duplico el contenido hacia arriba.
+Ctrl + Alt + Abajo: Crea cursores múltiples hacia abajo.
+Ctrl + Alt + I: Incrementa los números seleccionados en secuencia.
+Ctrl + E: Últimos archivos abiertos.
+Ctrl + Shift + E: Pasa el foco al costado de la pantalla.
+Alt + Alt + W (Suelto) + W (o abajo o arriba): Crea un console.log con string a partir de un código.
+Ctrl + Alt + W (Suelto) Ctrl + Alt + Abajo: Crea un console.log con la variable declarada. Ejemplo type mes y crea console.log('mes', mes)
+Crear varios cursores + Ctrl + Shift + P escribir random: Crea listas aleatorias de cosas (números, fechas, colores, países, ciudades, etc. Funciona si se tiene instalada la extensión Random Everything).
+Ctrl + Ñ: Abrir la terminal desde VS Code.
+Ctrl + F: Search into the file
+Ctrl + Shift + F: Search in all the project.
+Ctrl + Click: To navigate between objects and elements of a .js file in VS Code.
+
+
+
+En el navegador
+Ctrl + U o botón derecho + inspeccionar en navegador: Inspeccionar código de una página.
+
+El indentado no tiene que ver con las jerarquías. Si todas las etiquetas salen de body van al mismo nivel.
+
+VS Code Extensions
+Live Server: Para habilitar la opción de servidor Online.
+Indent Rainbaw: Para el color de la indentación.
+SynthWave 84:Para activar colores de las etiquetas y efecto de neón.
+Fix VS Code Checksums: Para desactivar el aviso que sale al activar el efecto de neón.
+Random everything: Para crear contenido aleatorio.
+Increment Selection: Para seleccionar número y que se incrementen.
+Prettier: Para indentar automáticamente el código.
+Open in browser: Para abrir archivos en el browser desde VS Code.
+Live Share: Para permitir a otros acceder a VS Code y trabajar de forma colaborativa.
+SonarLint: Detecta errores de sintaxis en el código.
+Code Icons: Cambia el icono de los folders y files dependiendo de su uso.
+Material Icon Theme: Cambia el icono de los folders y files dependiendo de su uso.
+Image preview: Muestra un pequeño código en la línea de código donde está ubicada la imagen.
+Random everything: Crea listas aleatorias de cosas (números, fechas, colores, países, ciudades, etc.)
+Code Spell Checker: Corrige si un idioma está mal escrito (abrir panel de extensiones/extensions settings/buscar lang)/En C Spell:Language colocar en,es-ES,lorem
+Spanish Code Spell Checker
+https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish
+
+
+Extension SynthWave 84
+Ctrl + Shift + P > Neon: Enable
+Ctrl + Shift + P > Fix Checksums: Apply
+
+Emmet abbreviations
+CSS
+ff font-family
+fs font-style
+fz font-size
+bgc background-color
+ttu text-transform: uppercase
+
+HTML
+! HTML5 complete structure.
+
+
+JavaScript
+
+Tags:
+<script></script> Inside this element have to be the JavaScript code.
+<script src="js/main.js"></script> Linking JavaScript file in HTML5.
+
+Comments:
+/* */ Block comments with .
+// In line comments with.
+
+For strings:
+'   Single quote
+"   Quotes
+`   backtick (Alt + 96): To make template strings.
+
+Mathematical operators:
++ Adding and concatenation operator.
+- Substraction operator.
+* Multiplication operator.
+/ Division operator.
+** Power operator.
+% Returns residual value operator.
+
+Comparative operators:
+< lower than.
+> greater than.
+<= lower or equal than.
+>= greater than.
+>= greater than or equal to.
+== equal (it does not take into account the type of data). Careful with the operator =, because is an assignation operator.
+=== estrictly equal (it does take into account the type of data).
+!= not equal or distinct (it does not take into account the type of data).
+!== estrictly not equal or estrictly distinct (it does take into account the type of data).
+
+Increment and decrement operators:
+i++ Postincrement operator, increments the variable value +1.
+++i Preincrement operator, increments the variable value +1.
+i-- Postdecrement operator
+--i Predecrement operator
+
+Assigment operators:
+= Assignation's operator.
++= Addition assignment, adds the value of the right operand to a variable and assigns the result to the variable.
+*= Multiplication assignment, multiplies the value of the right operand to a variable and assigns the result to the variable.
+/= Division assignment, divides the value of the right operand to a variable and assigns the result to the variable.
+
+Logic operators:
+! Negation (not), it is a logical operator that takes truth to falsity and vice versa.
+And &&: if true && true the result is true - if true && false the result is false - if false && true the result is false - if false && false the result is false.
+Or ||: if true || true the result is true - if true || false the result is true - if false || true the result is true - if false || false the result is false.
+
+Other operators:
+typeof returns the type of a variable when you call it.
+
+
+Expressions:
+var name = 'Ernesto' Assign a variable a name (name) and a value ('Ernesto').
+alert('Hello world!') Shows a pop-up alert.
+prompt('Asks something') Shows a pop-up asking something to users and returns true or false.
+'' Use for envelope words or sentences and creates strings.
+console.log(Add something) Message or expression inside parentheses will be displayed in the console.
+"i" is a temporary variable used to store the integer value of the current position in the range of the for loop that only has scope within its for loop. You could use any other variable name in place of "i" such as "count" or "x" or "number".
+
+Escape characters:
+\n newline break in the code or a string.
+\b Backspace
+\f Form Feed
+\n New Line
+\r Carriage Return
+\t Horizontal Tabulator
+\v Vertical Tabulator
+\' Single quote
+\" Double quote
+\\ Backslash
+
+Values:
+'Strings' Words, spaces and letters withing single quotes.
+Number 1, 5, 0.7, -206.32 (use for decimals, do not to use commas), 0, 0.0, NaN, Infinity.
+NaN Stands fo not a number, but it is considered a number by JavaScript engine.
+Infinity is a numeric value representing infinity.
+Undefined is a primitive value automatically assigned to variables that have just been declared, or to formal arguments for which there are no actual arguments.
+null Represents the intentional absence of any object value. It is treated as falsy for boolean operations.
+true A boolean object. All numbers (including infinity) except 0,0.0, -0, -0.0 and NaN are considered true, all strings except empty strings '' are considered true by JavaScript engine. In operations true is automatically transform into a 1.
+false A boolean object. 0,0.0, -0, -0.0, NaN, and empty strings ('') are considered false by JavaScript engine. In operations false is automatically transform into a 0.
+!true transforms a true value in false.
+!false transforms a false value in true.
+
+Primitive values/data type:
+Primtive is data that is not an object and has no methods or properties. In JavaScript there are 7 primitives data types:
+    string
+    number
+    bigint
+    boolean
+    undefined
+    symbol
+    null
+
+Conditional Statements:
+Use if to specify a block of code to be executed, if a specified condition is true. Example: if (is raining) {I take a taxi}
+Use else to specify a block of code to be executed, if the same condition is false. Example:  if (condition) {code to execute if the condition is true} else {code to execute if the condition is false or not true}.
+Use else if to specify a new condition to test, if the first condition is false. Example: If (condition) {code to execute if the condition 1 is true} else if (condition 2) {code to execute if the condition 1 is false and condition 2 is true}.
+Use switch to specify many alternative blocks of code to be executed. Example:
+    var (day) = 'sunday'
+    switch (day) {
+        case 'sunday':
+        console.log('It is Sunday!!')
+        case 'monday':
+        console.log('It is Monday!!')
+    }
+
+Fuctions:
+Function A JavaScript function is a block of code designed to perform a particular task. A JavaScript function is executed when "something" invokes it (calls it). Example:
+    function foldclothes (){
+        Stretch the sweater on the table.
+        Fold it back in thirds.
+        Roll up the sleeves.
+        Fold it in half
+        Keep it in the closet.
+    }
+Arguments are objects inside the parentheses (). Arguments are objects accessible inside functions that contains the values of the arguments passed to that function.
+
+Arrays:
+Array An object that enables storing a collection of multiple items under a single variable name.
+As functions arrays also have arguments with the same definition.
+
+JavaScript shortcuts
+F12 Show console in browsers.
+Alt + Shift + W (let go) + W (Up or down arrow) Creates a console.log with a string.
+Ctrl + Alt + W (let go) Ctrl + Alt + Down arrow: Creates console.log with the variable declared.
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+Random notes:
+
+email links: <a href="mailto: info@educacionit.com, rrhh@educacionit.com?subject=Educación IT" title="Vínculo de correo">info@educacionit.com</a>
+
+
+Debugging in browsers
+
+Click in column of numbers: to create breakpoints.
+F5: Reload the page.
+F8: Pass to the next breakpoint.
+Ctrl + \: Pass to the next breakpoint.
+F9: One step.
+F10: Pass to the next line.
+Ctrl + ': Pass to the next line.
+Ctrl + F8: To deactivate the breakpoints.
+F11: Step into the next function call.
+Ctrl + ;: Step into the next function call.
+Shift + F11: Step out the next function call.
+Ctrl + Shift + ;: Step out the next function call.
+
+Debugging in VS Code
+
+Ctrl + Shift + D: Run and Debug button.
+
+
+PowerShell abbreviations
+
+calc // opens the calculator
+notepad // opens the notepad
+ls // lists files in a folder
+cd // abbreviation for change directoy
+cd folder name // enters to the folder, using tab autocompletes
+cls // to clean. Stands for clear screen, another option is just the word clear
+arrow-up and arrow-down // shows the last words typed.
+rm file name // to delete a file. Stands for remove. It puts the name with backslash, like this .\notas.txt
+cd .. // for go up. Also we can use in windows cd.. without space. In linux is necessary the space.
+cd folder name\folder name\folder name // For going several folders down.
+cd ..\..\.. // For going several folders up.
+rm .\blablabla // works when the folder is empty. But rm is to delete files. If the folder has a file it will ask that folder has secondary elements, [Y] OR [N]
+Ctrl + C // To get out of something we're doing.
+C:\dart-sass> .\sass.bat --version // Shows the version 1.55.0
+C:\dart-sass> .\sass.bat // Show the info about sass. The idea is not to have to open the folder to execute it.
+exit // to close the terminal
+
+
+date // shows current date and hour
+uptime // shows time passed from computer starting
+cal // shows the current calendary
+df // shows the disk free space
+whoami // shows the current user name
+
+Commands for folder handling
+ls // list files (list directory)
+cd // change directory
+pwd // shows the absolute route (print working directory)
+mkdir // creates a new folder (make directory)
+cp -r // copies a folder (-r is for recursive). Ex: cp -r Hi Hello (This creates a copy of folder Hi naming the new folder Hello). We use -r because is a folder and it needs to be recursive to eliminate everything within
+rm -r // removes a folder (-r is for recursive). rm -r Hello (Deletes folder Hello)
+del * // deletes all files in a folder
+
+Commands for files handling
+touch // creates a new file. Ex: touch Bye (For Linux and macOS)
+New-Item // creates a new file. example.txt -ItemType File (For PowerShell)
+cat // concatenate and print file. Print the content of a file according to a given route. Ex: cat Bye
+more // it's like cat but allows us to navigate using Vim like controls
+cp // copies a file according to an initial and end given route
+rm // removes the file according to a given route
+mv // moves a file from a folder to another one. Ex: mv Bye /Users/darioernestoroca/downloads
+mv // also allows us to rename a file. Ex: mv Bye Aurevoir
+
+Alias
+ls ~ // lists everything in the home
+cd ~ // change directory to home
+
+New-Alias cl clear // Creates a new alias for the command clear
+
+
+Commands for npm
+npm install // Install node_modules and all its dependencies
+npm cache clean --force // for removing npm cache
+Remove-Item -Recurse -Force node_modules // for removing node_modules
+
+Commands for React
+npx create-react-app my-app // To create a new React app
+cd my app
+npm start
+

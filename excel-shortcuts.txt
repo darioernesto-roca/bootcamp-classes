@@ -1,0 +1,86 @@
+Excel shortcuts
+
+Ctrl + E - Seleccionar todo
+Ctrl + N - Negrita
+Ctrl + C - Copiar
+Ctrl + D - Rellenar
+Ctrl + B - Buscar
+Ctrl + G - Guardar
+Ctrl + L - Reemplazar
+Ctrl + K - Italic
+Ctrl + U - Nuevo libro de trabajo
+Ctrl + A - Abrir
+Ctrl + P - Imprimir
+Ctrl + R - Nada bien
+Ctrl + S - Subrayado
+Ctrl + V - Pegar
+Ctrl W - Cerrar
+Ctrl + X - Cortar
+Ctrl + Y - Repetir
+Ctrl + Z - Deshacer
+F1 - Ayuda
+F2 - Edición
+F3 - Pegar el nombre
+F4 - Repite la última acción.
+F4 - Al ingresar una fórmula, cambie entre referencias absolutas / relativas
+F5 - Ir a
+F6 - Panel siguiente
+F7 - Corrector ortográfico
+F8 - Ampliación del modo.
+F9 - Recalcular todos los libros
+F10 - Activar la barra de menú
+F11 - Nueva gráfica
+F12 - Guardar como
+Ctrl +: - Insertar la hora actual
+Ctrl +; - Insertar la fecha actual.
+Ctrl + "- Copia el valor de la celda arriba
+Ctrl + '- Copia la fórmula de la celda de arriba
+Cambio - Ajuste de compensación para funciones adicionales en el menú de Excel
+Shift + F1 - ¿Qué es?
+Shift + F2 - Editar comentario de celda
+Shift + F3 - Pegar la función en la fórmula
+Shift + F4 - Buscar siguiente
+Mayús + F5 - Buscar
+Mayús + F6 - Panel anterior
+Mayús + F8 - Añadir a la selección
+Shift + F9 - Calcular la hoja de cálculo activa
+Shift + F10 - Visualización del menú emergente
+Shift + F11 - Nueva hoja de cálculo
+Mayús + F12 - Guardar
+Ctrl + F3 - Establecer nombre
+Ctrl + F4 - Cerrar
+Ctrl + F5 - XL, tamaño de la ventana de restauración
+Ctrl + F6 - Ventana del siguiente libro de trabajo
+Shift + Ctrl + F6 - Ventana del libro de trabajo anterior
+Ctrl + F7 - Mover ventana
+Ctrl + F8 - Cambiar tamaño de ventana
+Ctrl + F9 - Minimizar el libro de trabajo
+Ctrl + F10 - Maximizar o restaurar ventana
+Ctrl + F11 - Insertar 4.0 hoja de macros
+Ctrl + F1 - Abrir archivo
+Alt + F1 - Insertar un gráfico
+Alt + F2 - Guardar como
+Alt + F4 - Salida
+Alt + F8 - Cuadro de diálogo macro
+Alt + F11 - Editor de Visual Basic
+Alt + 64 - @
+CTRL + Esc. Puedes regresar rápidamente a la pantalla de inicio. Y aquí no ha pasado nada.
+Ctrl + Shift + F3 - Crear un nombre usando los nombres de las etiquetas de fila y columna
+Ctrl + Shift + F6 - Ventana anterior
+Ctrl + Shift + F12 - Impresión
+Alt + Shift + F1 - Nueva hoja de cálculo
+Alt + Shift + F2 - Guardar
+Alt + = - AutoSum
+Ctrl + `- Cambiar valor / visualización de la fórmula
+Ctrl + Shift + A - Insertar los nombres de los argumentos en la fórmula
+Alt + flecha abajo - lista de vista automática
+Alt + '- Formato de diálogo de estilo
+Ctrl + Shift + ~ - Formato general
+Ctrl + Shift + @ - Formato de hora
+Ctrl + Shift + # - Formato de fecha
+Ctrl + Shift + $ - Formato de moneda
+Ctrl + Shift +% - Formato de porcentaje
+Ctrl + Shift + ^ - Formato exponencial
+Ctrl + Shift + & - Coloque el borde del contorno alrededor de las celdas seleccionadas
+Ctrl + Shift + _ - Eliminar el borde del contorno
+Ctrl + Shift + * - Seleccione la región actual
